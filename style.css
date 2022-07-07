@@ -12,7 +12,7 @@ body {
 }
 
 .blue-color {
-    color: blueviolet;
+    color: white;
     font-size: 20px;
     text-align: center;
 }
@@ -42,4 +42,14 @@ div {
     border-radius: 20px;
 
     margin-bottom: 50px;
+}
+
+input[type=text] {
+    width: 15%;
+    padding: 2px 2px;
+    margin: 0;
+    box-sizing: border-box;
+    color: rgb(255, 0, 234);
+    font-weight: 700;
+    font-size: bold
 }
