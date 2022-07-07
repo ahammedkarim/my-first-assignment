@@ -1,30 +1,45 @@
-body{
+body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
-    
-    
+
+
 }
-.orange-color{
-    color: rgb(208, 43, 226);
+
+.orange-color {
+    color: blue;
     font-size: 50px;
     text-align: center;
 }
-.blue-color{
-    color: yellowgreen; 
+
+.blue-color {
+    color: blueviolet;
     font-size: 20px;
     text-align: center;
-}  
-    
-div{
-    background-image: url(images/donation11.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    bottom: 2000px;
-    top: 2000px;
-   
 }
 
-p{
+div {
+    background-image: url(images/donation5.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 50% 50%;
+
+}
+
+
+
+
+
+
+.text {
+    align-content: center;
+    color: blue;
+
+}
+
+.link-button {
+    font-size: 30px;
     text-align: center;
-    box-sizing: content-box;
+    border-radius: 20px;
+
+    margin-bottom: 50px;
 }
